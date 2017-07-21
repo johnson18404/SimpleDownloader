@@ -1,0 +1,14 @@
+{
+  "name": "simple_downloader",
+  "version": "1.0.0",
+  "description": "Download all files from the url in the file urls.txt.",
+  "main": "dwn.js",
+  "scripts": {
+    "start": "node dwn.js"
+  },
+  "author": "a1337",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
